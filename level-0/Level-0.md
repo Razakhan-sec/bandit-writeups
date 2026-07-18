@@ -33,5 +33,19 @@
 
 ## Walkthrough:
 
-- 
+
+## Walkthrough:
+
+### Checkpoint 1: Terminal before running any command
+
+![Terminal before any command](../images/terminal-before_anycommand.png)
+*This is what a fresh terminal looks like before you've connected to anything. Try running the ssh command yourself using the host, port, and username given above.*
+
+### Checkpoint 2: After correctly executing the SSH command
+
+![After correctly executing ssh command](../images/after-correctly_executing-ssh-command.png)
+*If your command was correct, this is what you should see. Compare it with your own output — did you land in the same place?*
+
+
+
 
