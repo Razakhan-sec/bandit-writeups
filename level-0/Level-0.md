@@ -24,6 +24,11 @@
 
 #### Syntax:   ssh username@remote_host 
 
+#### Syntax:   ssh username@remote_host
+
+> ⚠️ **Common mistake:** Don't forget to include the `username@` part before the host. 
+> Running just `ssh remote_host` without a username will try to connect using your *local* machine's username instead — which will fail (or worse, silently try the wrong login). Always double check your full command includes `username@host`.
+
 #### Flags:
 	-i {path/to/key}: for specific private key to connect
 	-p {port}: for specific port
