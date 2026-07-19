@@ -14,16 +14,16 @@
 
    - Goal is to connect to the game using SSH. with Host and Port 
 
-# Command Theory --  
+# Commands Needed --  
 	
 	ssh
 
+# Theory --
 ## ssh -- 
 	secure shell is a protocol used to securely log into remote system, mainly used to logging and executing commands on a remote server.
 	  
 
-#### Syntax:   ssh username@remote_host 
-
+ 
 #### Syntax:   ssh username@remote_host
 
 > ⚠️ **Common mistake:** Don't forget to include the `username@` part before the host. 
@@ -33,10 +33,6 @@
 	-i {path/to/key}: for specific private key to connect
 	-p {port}: for specific port
 	-t(tty) {command command_arguments}: flag for forcing ssh to "login, run one specific command and show the output"
-
-
-
-## Walkthrough:
 
 
 ## Walkthrough:
