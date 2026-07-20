@@ -1,4 +1,4 @@
-er 
+
 
 # Level-1
 
@@ -220,21 +220,25 @@ er
 
 ## Walk-through -- 
 
-- First step is to connect to the level 0 using ssh , remember the username, password & host  for connecting to the remote machine and dont forgot to add port 
+## Walk-through --
 
-- After you login to the level zero the interface would look like this 
+- First step is to connect to level 0 using SSH. Remember the username, password, and host for connecting to the remote machine — and don't forget the port flag.
 
+- After you log in, your interface should look like this:
 
+![Starting point of level 0](../images/Starting-point-of-level-0.png)
+*If your terminal looks like this, you're successfully connected.*
 
+- Now check which directory you're in. You can verify this using a Linux command that prints your current working directory (`pwd`). You should find yourself in the home directory, under `bandit0`.
 
+- Next, use a command that lists the files and directories in your current location.
 
+![Listing home directory contents](../images/used-a-command-to-see-what-is-in-the-home-directory.png)
+*This is the output after listing what's inside the home directory. Can you spot the file you need?*
 
-- Now we need to run commands like we use to connect to the server and also you can check we are in right level by reading the first name which is the username represent in shell prompt in linux 
+- Once you find the file, you *could* inspect it further using a command that shows file type, or one that shows disk usage — but neither is necessary for this level. Save those for later.
 
-- So we are in the home directory you can check it with a linux command which is (pwd) that lists current directory and we are in home and under home we are in bandit0 
+- Instead, use a command that will print the file's contents directly to your terminal. Try it yourself before checking the screenshot below.
 
-- Now we need command that lists files and directory(folders) in the current directory
-
-- Then we get the file we need we can inspact the file more by a command that displays file type , and commad that gives how much it occupies the space but it is not need we need these command in future but now a command that will output the content of the file try yourself and run it 
-
-- i got it and i hope you also. 
+![Viewing file contents](../images/using-a-command-that-shows-content-of-file.png)
+*If you ran the right command, this is what you should see — including the password for the next level.*
