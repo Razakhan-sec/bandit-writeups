@@ -13,7 +13,7 @@
 	 - Find the password in level-0 for level-1
 
 
-## Commands Needed --
+## Commands Given --
 
 	 ls, cd, cat, file, du, find.
 
