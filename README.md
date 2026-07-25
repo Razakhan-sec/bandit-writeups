@@ -14,15 +14,18 @@ Expect:
 
 ## Progress
 
-| Level       | Status           |
-| ----------- | -------------- |
-| Level 0     | ✅                |
-| Level 0 → 1 |                  |
-| Level 1 → 2                    |
-| Level 2 →          ne          |
-| L 🔜 In progress 🔜In progress |
+## Progress
+
+| Level | Status |
+|-------|--------|
+| Level 0 | ✅ Done |
+| Level 0 → 1 | ✅ Done |
+| Level 1 → 2 | ✅ Done |
+| Level 2 → 3 | ✅ Done |
+| Level 3 → 4 | 🔜 In progress |
 
 *(This table will be updated as more levels are completed.)*
+
 
 ## About Me
 
