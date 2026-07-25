@@ -12,9 +12,10 @@ Expect:
 - Common mistakes / warnings I ran into along the way
 - No direct spoilers or final answers
 
-## Progress
+
 
 ## Progress
+
 
 | Level | Status |
 |-------|--------|
