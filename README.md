@@ -17,21 +17,21 @@ Expect:
 ## Progress
 
 
-| Level         | Status |     |
-| ------------- | ------ | --- |
-| Level 0       | ✅ Done |     |
-| Level 0 → 1   | ✅ Done |     |
-| Level 1 → 2   | ✅ Done |     |
-| Level 2 → 3   | ✅ Done |     |
-| Level 3 → 4   | ✅ Done |     |
-| Level 4 → 5   | ✅ Done |     |
-| Level 5 → 6   | ✅ Done |     |
-| Level 6 → 7   | ✅ Done |     |
-| Level 7 → 8   | ✅ Done |     |
-| Level 8 → 9   | ✅ Done |     |
-| Level 9 → 10  | ✅ Done |     |
-| Level 10 → 11 | ✅ Done |     |
-| Level 11 → 12 | ✅ Done |     |
+| Level         | Status |
+| ------------- | ------ |
+| Level 0       | ✅ Done |
+| Level 0 → 1   | ✅ Done |
+| Level 1 → 2   | ✅ Done |
+| Level 2 → 3   | ✅ Done |
+| Level 3 → 4   | ✅ Done |
+| Level 4 → 5   | ✅ Done |
+| Level 5 → 6   | ✅ Done |
+| Level 6 → 7   | ✅ Done |
+| Level 7 → 8   | ✅ Done |
+| Level 8 → 9   | ✅ Done |
+| Level 9 → 10  | ✅ Done |
+| Level 10 → 11 | ✅ Done |
+| Level 11 → 12 | ✅ Done |
 
 
 *(This table will be updated as more levels are completed.)*
